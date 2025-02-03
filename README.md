@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dara   
-- 👀 I’m interested in the data managerment and data warehouse.
+- 👀 I’m interested in the date Science.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on the new project with to build my ability.
 - 📫 How to reach me ...
